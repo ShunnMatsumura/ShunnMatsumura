@@ -5,7 +5,7 @@
 [![twitter](https://img.shields.io/twitter/follow/siaavh20?style=social)](https://twitter.com/siaavh20)
 
 
-Freelance Software Enginner.
+Software Enginner.
 
 ![ShunMatsumura's github stats](https://github-readme-stats.vercel.app/api?username=ShunMatsumura&count_private=true&show_icons=true&theme=dracula)
 
@@ -27,13 +27,6 @@ Freelance Software Enginner.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-# interest
-
-- Laravel
-- Vue.js
-- RubyOnRails
-- Python
 
 # Contact
 
