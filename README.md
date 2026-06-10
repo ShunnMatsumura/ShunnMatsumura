@@ -4,14 +4,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0FACFB,100:8E2DE2&height=200&section=header&text=Shun%20Matsumura&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=20&animation=fadeIn)
 
-<a href="https://github.com/ShunMatsumura">
+<a href="https://github.com/ShunnMatsumura">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0FACFB&center=true&vCenter=true&width=520&lines=Software+Engineer+%F0%9F%9A%80;Ruby+on+Rails+%7C+TypeScript+%7C+React;Building+things+for+the+web;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![offers](https://img.shields.io/static/v1?label=Offers&message=@ShunMatsumura&color=0FACFB&style=for-the-badge)](https://offers.jp/pub/w/TbXbEE3KhRgSqpNTPZsjyMt2/post/rDb6NcDtXBDRN1PCrhf1BmNM)
-[![github](https://img.shields.io/github/followers/ShunMatsumura?label=Follow&style=for-the-badge&color=8E2DE2&logo=github)](https://github.com/ShunMatsumura)
+[![offers](https://img.shields.io/static/v1?label=Offers&message=@ShunnMatsumura&color=0FACFB&style=for-the-badge)](https://offers.jp/pub/w/TbXbEE3KhRgSqpNTPZsjyMt2/post/rDb6NcDtXBDRN1PCrhf1BmNM)
+[![github](https://img.shields.io/github/followers/ShunnMatsumura?label=Follow&style=for-the-badge&color=8E2DE2&logo=github)](https://github.com/ShunnMatsumura)
 [![twitter](https://img.shields.io/twitter/follow/siaavh20?style=for-the-badge&color=1DA1F2&logo=x)](https://twitter.com/siaavh20)
 
 </div>
@@ -64,20 +64,20 @@ philosophy: "Ship fast, learn faster."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShunMatsumura&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunMatsumura&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShunnMatsumura&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunnMatsumura&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShunMatsumura&theme=dracula&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShunnMatsumura&theme=dracula&hide_border=true&background=0D1117" />
 
 <br/>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ShunMatsumura&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ShunnMatsumura&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShunMatsumura&theme=react-dark&hide_border=true&bg_color=0D1117&color=0FACFB&line=8E2DE2&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShunnMatsumura&theme=react-dark&hide_border=true&bg_color=0D1117&color=0FACFB&line=8E2DE2&point=ffffff)
 
 </div>
 
@@ -93,7 +93,7 @@ philosophy: "Ship fast, learn faster."
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShunMatsumura&style=for-the-badge&color=0FACFB&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShunnMatsumura&style=for-the-badge&color=0FACFB&label=PROFILE+VIEWS)
 
 </div>
 
